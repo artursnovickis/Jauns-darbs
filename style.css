@@ -1,15 +1,5 @@
-<html>
- <head>
-  <meta charset="utf-8">
-  <title>background-image</title>
-  <style>
-   body {
-    background-image: url(lejupielāde.bg.jpg); /* Путь к фоновому изображению */
-    background-color: #c7b39b; /* Цвет фона */
-   }
-  </style>
-   </head>
- <body>
-  <p>...</p>
- </body>
-</html>
+.photo{
+  background:url(https://cdn.akamai.steamstatic.com/steam/apps/1091500/capsule_616x353.jpg?t=1663663573);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
